@@ -1,0 +1,40 @@
+
+.carrusel{
+    background-size: cover;
+    background-position: center;
+}
+
+.parrafo{
+    padding: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: center;
+    justify-content: center
+}
+
+.card{
+    padding: 10px;
+    margin: 20px;
+}
+
+.tarjeta{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+
+}
+
+.main{
+    background-color: aliceblue;
+    color: rgb(0, 0, 0);
+}
+
+.P-P{
+    margin: 30px;
+}
+
+.encabezado{
+    margin: 50px;
+}
+
